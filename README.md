@@ -1,1 +1,5 @@
-# Assignments
+
+
+```python
+print ("This is assignment 1")
+
